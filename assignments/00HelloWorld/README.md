@@ -1,4 +1,3 @@
-![Tec de Monterrey](../../images/logotecmty.png)
 # Hello World!
 Básicos-Hello World
 
